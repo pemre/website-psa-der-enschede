@@ -4,21 +4,24 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+const organizationName = 'pemre'; // Usually your GitHub org/user name.
+const projectName = 'website-psa-der-enschede'; // Usually your repo name.
+
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'PSA-Der',
+  tagline: 'Pir Sultan Abdal Kültür ve Dayanışma Derneği - Enschede',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: `https://${organizationName}.github.io`,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: `/${projectName}/`,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'pemre', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: organizationName, // Usually your GitHub org/user name.
+  projectName: projectName, // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -76,18 +79,18 @@ const config: Config = {
       items: [
         {to: '/about-us', label: 'Hakkımızda', position: 'left'},
         {to: '/membership', label: 'Üyelik', position: 'left'},
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
-        //{to: '/blog', label: 'Blog', position: 'left'},
-        //{
-        //  href: 'https://github.com/facebook/docusaurus',
-        //  label: 'GitHub',
-        //  position: 'right',
-        //},
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: '[TEST] Tutorial',
+        },
+        {to: '/blog', label: '[TEST] Blog', position: 'left'},
+        {
+         href: `https://github.com/pemre/${projectName}`,
+         label: 'GitHub',
+         position: 'right',
+        },
         {
           type: 'localeDropdown',
           position: 'right',
@@ -137,7 +140,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Bilgi paylaştıkça çoğalır. © ${new Date().getFullYear()} PSA-Der Enschede.`,
     },
     prism: {
       theme: prismThemes.github,

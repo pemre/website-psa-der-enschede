@@ -16,16 +16,8 @@ function HomepageHeader() {
         <div className="container">
             <Heading as="h1" className="hero__title">
                 {siteConfig.title}
-                <Translate>Welcome to my website</Translate>
             </Heading>
-            <p className="hero__subtitle">{siteConfig.tagline}</p>
-            <div className={styles.buttons}>
-                <Link
-                    className="button button--secondary button--lg"
-                    to="/docs/intro">
-                    Docusaurus Tutorial - 5min ⏱️
-                </Link>
-            </div>
+            <div className="hero__subtitle">{siteConfig.tagline}</div>
         </div>
     </header>
   );
@@ -39,11 +31,30 @@ export default function Home(): JSX.Element {
             description="Description will go into a meta tag in <head />"
         >
             <HomepageHeader/>
+
+
+
             <main>
+            <div style={{display: 'flex', justifyContent: 'center', fontSize: '2rem', fontWeight: 'bold', marginTop: '1rem'}}>
+                YAPILACAKLAR
+            </div>
+            <div style={{display: 'flex', justifyContent: 'center', marginBottom: '-3rem'}}>
+                <ol>
+                    <li>
+                        <input type="checkbox" /> <a href="https://github.com/pemre/website-psa-der-enschede/blob/main/README.md">README.md</a> dosyasını güncelle
+                    </li>
+                    <li><input type="checkbox" /> <a href="https://docusaurus.io/blog/releases/3.7">Docusaurus 3.7</a>'ye güncelle</li>
+                    <li><input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
+                    <li><input type="checkbox" /> Adres ekle.</li>
+                    <li><input type="checkbox" /> Harita ekle.</li>
+                    <li><input type="checkbox" /> Logoyu yeniden yarat.</li>
+                    <li><input type="checkbox" /> Asagidaki kutulari ya sil ya da uygun icerik bul.</li>
+                </ol>
+            </div>
                 <HomepageFeatures/>
             </main>
 
-            <div style={{display: 'flex', justifyContent: 'center'}}>
+            <div style={{display: 'flex', justifyContent: 'center', marginBottom: '2rem'}}>
                 <InstagramEmbed url="https://www.instagram.com/psa.gencler" width={"60%"}/>
             </div>
         </Layout>
