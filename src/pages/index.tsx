@@ -73,7 +73,8 @@ export default function Home(): JSX.Element {
                     <li><input type="checkbox" /> İletişim sayfasi</li>
                     <li>---- <input type="checkbox" checked /> Adres ekle.</li>
                     <li>---- <input type="checkbox" checked /> Harita ekle.</li>
-                    <li>---- <input type="checkbox" /> Prismare'den toplu tasima paragrafini al.</li>
+                    <li>---- <input type="checkbox" checked /> Acilis saatlerini ekle.</li>
+                    <li>---- <input type="checkbox" checked /> Prismare'den toplu tasima paragrafini al.</li>
                     <li>---- <input type="checkbox" checked /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
