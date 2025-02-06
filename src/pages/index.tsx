@@ -43,16 +43,21 @@ export default function Home(): JSX.Element {
                     <li><input type="checkbox" /> Teknik isler</li>
                     <li>---- <input type="checkbox" /> <a href="https://github.com/pemre/website-psa-der-enschede/blob/main/README.md">README.md</a> dosyasını güncelle</li>
                     <li>---- <input type="checkbox" /> <a href="https://docusaurus.io/blog/releases/3.7">Docusaurus 3.7</a>'ye güncelle</li>
+                    <li>---- <input type="checkbox" /> Login bilgilerini test et</li>
 
                     <li><input type="checkbox" /> Ana sayfa</li>
                     <li>---- <input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
                     <li>---- <input type="checkbox" /> Logoyu yeniden yarat.</li>
                     <li>---- <input type="checkbox" /> Asagidaki resimli kutulari sil ya da uygun icerik bul.</li>
                     <li>---- <input type="checkbox" /> <a href="https://nl-nl.facebook.com/psader.enschede/">Facebook linki</a> en asagida olacak mi?</li>
+                    <li>---- <input type="checkbox" /> En alt kisimda rastgele cumleler/alintilar paylasabiliriz.</li>
+                    <li>---- <input type="checkbox" /> Sayfanin renkleri yesilden kirmiziya cevrilebilir.</li>
                     <li>---- <input type="checkbox" /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
 
+
+                    <li><input type="checkbox" /> Temalar sayfasi bos. Kitapcik eklenebilir.</li>
 
                     <li><input type="checkbox" /> Hakkımızda sayfasi</li>
                     <li>---- <input type="checkbox" checked /> Türkçe</li>
@@ -68,6 +73,7 @@ export default function Home(): JSX.Element {
                     <li><input type="checkbox" /> İletişim sayfasi</li>
                     <li>---- <input type="checkbox" checked /> Adres ekle.</li>
                     <li>---- <input type="checkbox" checked /> Harita ekle.</li>
+                    <li>---- <input type="checkbox" /> Prismare'den toplu tasima paragrafini al.</li>
                     <li>---- <input type="checkbox" checked /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
@@ -78,14 +84,16 @@ export default function Home(): JSX.Element {
                     <li>---- <input type="checkbox" /> İngilizce</li>
 
                     <li><input type="checkbox" /> Thema's sayfasi bos. Ne yapilacak?</li>
+                    <li><input type="checkbox" /> Google isletmelerde adresi guncellemek lazim: Google Haritalar</li>
                 </ol>
             </div>
                 <HomepageFeatures/>
             </main>
 
             <div style={{display: 'flex', justifyContent: 'center', marginBottom: '2rem'}}>
-                <InstagramEmbed url="https://www.instagram.com/psa.gencler" width={"60%"}/>
+                <InstagramEmbed url="https://www.instagram.com/enschede_akm" width={"60%"}/>
             </div>
+            dfd
         </Layout>
     );
 }
