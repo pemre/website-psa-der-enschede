@@ -40,15 +40,44 @@ export default function Home(): JSX.Element {
             </div>
             <div style={{display: 'flex', justifyContent: 'center', marginBottom: '-3rem'}}>
                 <ol>
-                    <li>
-                        <input type="checkbox" /> <a href="https://github.com/pemre/website-psa-der-enschede/blob/main/README.md">README.md</a> dosyasını güncelle
-                    </li>
-                    <li><input type="checkbox" /> <a href="https://docusaurus.io/blog/releases/3.7">Docusaurus 3.7</a>'ye güncelle</li>
-                    <li><input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
-                    <li><input type="checkbox" /> Adres ekle.</li>
-                    <li><input type="checkbox" /> Harita ekle.</li>
-                    <li><input type="checkbox" /> Logoyu yeniden yarat.</li>
-                    <li><input type="checkbox" /> Asagidaki kutulari ya sil ya da uygun icerik bul.</li>
+                    <li><input type="checkbox" /> Teknik isler</li>
+                    <li>---- <input type="checkbox" /> <a href="https://github.com/pemre/website-psa-der-enschede/blob/main/README.md">README.md</a> dosyasını güncelle</li>
+                    <li>---- <input type="checkbox" /> <a href="https://docusaurus.io/blog/releases/3.7">Docusaurus 3.7</a>'ye güncelle</li>
+
+                    <li><input type="checkbox" /> Ana sayfa</li>
+                    <li>---- <input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
+                    <li>---- <input type="checkbox" /> Logoyu yeniden yarat.</li>
+                    <li>---- <input type="checkbox" /> Asagidaki resimli kutulari sil ya da uygun icerik bul.</li>
+                    <li>---- <input type="checkbox" /> <a href="https://nl-nl.facebook.com/psader.enschede/">Facebook linki</a> en asagida olacak mi?</li>
+                    <li>---- <input type="checkbox" /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+
+
+                    <li><input type="checkbox" /> Hakkımızda sayfasi</li>
+                    <li>---- <input type="checkbox" checked /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+
+
+                    <li><input type="checkbox" /> Üyelik sayfasi</li>
+                    <li>---- <input type="checkbox" checked /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+
+                    <li><input type="checkbox" /> İletişim sayfasi</li>
+                    <li>---- <input type="checkbox" checked /> Adres ekle.</li>
+                    <li>---- <input type="checkbox" checked /> Harita ekle.</li>
+                    <li>---- <input type="checkbox" checked /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+
+                    <li><input type="checkbox" /> Privacy/disclaimer sayfasini ekle.</li>
+                    <li>---- <input type="checkbox" /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+
+                    <li><input type="checkbox" /> Thema's sayfasi bos. Ne yapilacak?</li>
                 </ol>
             </div>
                 <HomepageFeatures/>

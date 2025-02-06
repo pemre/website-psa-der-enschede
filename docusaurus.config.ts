@@ -79,6 +79,7 @@ const config: Config = {
       items: [
         {to: '/about-us', label: 'Hakkımızda', position: 'left'},
         {to: '/membership', label: 'Üyelik', position: 'left'},
+        {to: '/contact', label: 'İletişim', position: 'left'},
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
