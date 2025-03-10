@@ -67,7 +67,6 @@ export default function Home(): JSX.Element {
                 <ol>
                     <li><input type="checkbox" /> Teknik isler</li>
                     <li>---- <input type="checkbox" /> <a href="https://github.com/pemre/website-psa-der-enschede/blob/main/README.md">README.md</a> dosyasını güncelle</li>
-                    <li>---- <input type="checkbox" /> <a href="https://docusaurus.io/blog/releases/3.7">Docusaurus 3.7</a>'ye güncelle</li>
                     <li>---- <input type="checkbox" /> Login bilgilerini test et</li>
 
                     <li><input type="checkbox" /> Ana sayfa</li>
