@@ -7,7 +7,6 @@ title: Lidmaatschap
 ## Lid worden?
 Iedereen kan lid worden van onze vereniging en deelnemen aan onze (niet-verplichte) activiteiten, mits u onze kernwaarden, normen en principes onderschrijft.
 
-
 Neem contact met ons op als u lid wilt worden. Deelname aan activiteiten is altijd op vrijwillige basis. U kunt uw lidmaatschap op elk moment opzeggen.
 
 ## Nieuws via digitale kanalen

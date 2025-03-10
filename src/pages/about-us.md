@@ -36,9 +36,9 @@ Hedeflerimize ulaşmak için demokratik, çok kültürlü ve hoşgörülü değe
 Derneğimiz, kısa iletişim hatlarıyla düz bir organizasyon yapısına sahiptir. Yönetim kurulu, genel kurulda iki yıllık bir süre için seçilir ve en az yedi üyeden oluşur. Yönetim kurulu, içinden bir başkan, bir sekreter, bir sayman ve gerekli sayıda destek üyesi atar.
 
 Yönetim kuruluna ek olarak, birkaç komite bulunmaktadır:
-- Kadın Komitesi, kadın üyeler için etkinlikler düzenler.
-- Gençlik Komitesi, gençler için ve gençler tarafından etkinlikler organize eder.
-- Cem Komitesi, Cem, Hızır, Muharrem, Aşure, Hz. Ali, Hıdırellez, Hacı Bektaş Veli, Khal Gaxan/Gağan gibi dini etkinlikleri (ilgisine göre) yürütür.
+- **Kadın Komitesi**, kadın üyeler için etkinlikler düzenler.
+- **Gençlik Komitesi**, gençler için ve gençler tarafından etkinlikler organize eder.
+- **Cem Komitesi**, Cem, Hızır, Muharrem, Aşure, Hz. Ali, Hıdırellez, Hacı Bektaş Veli, Khal Gaxan/Gağan gibi dini etkinlikleri (ilgisine göre) yürütür.
 
 Maalesef dini etkinliklerimiz için özel bir [Cemevi](https://tr.wikipedia.org/wiki/Cemevi)'miz bulunmamaktadır ve bunun için mahalle merkezindeki dernek binamızın düzenli alanlarını kullanıyoruz.
 

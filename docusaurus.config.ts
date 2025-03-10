@@ -80,18 +80,13 @@ const config: Config = {
         {to: '/about-us', label: 'Hakkımızda', position: 'left'},
         {to: '/membership', label: 'Üyelik', position: 'left'},
         {to: '/contact', label: 'İletişim', position: 'left'},
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: '[TEST] Tutorial',
-        },
-        {to: '/blog', label: '[TEST] Blog', position: 'left'},
-        {
-         href: `https://github.com/pemre/${projectName}`,
-         label: 'GitHub',
-         position: 'right',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: '[TEST] Tutorial',
+        // },
+        // {to: '/blog', label: '[TEST] Blog', position: 'left'},
         {
           type: 'localeDropdown',
           position: 'right',
@@ -101,47 +96,39 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Tutorial',
+        //       to: '/docs/intro',
+        //     },
+        //   ],
+        // },
         {
-          title: 'Docs',
+          title: 'Sosyal medya',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/psader.enschede/',
+            },
+            {
+              label: 'Instagram (link eksik)',
+              href: '#',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Diğer',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Privacy/disclaimer (link eksik)',
+              to: '#',
             },
           ],
         },
       ],
-      copyright: `Bilgi paylaştıkça çoğalır. © ${new Date().getFullYear()} PSA-Der Enschede.`,
+      copyright: `© ${new Date().getFullYear()} PSA-Der Enschede`,
     },
     prism: {
       theme: prismThemes.github,

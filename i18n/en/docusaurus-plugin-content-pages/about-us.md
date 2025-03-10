@@ -16,7 +16,7 @@ Our association has various objectives in the fields of culture, religion, and s
 
 Additionally, we perform social and community functions, such as providing support during bereavements, funerals, and memorial services. Other activities include family evenings, informational meetings, music lessons, homework assistance, organizing lectures, book presentations, and music and theater performances.
 
-We also organize events around specific days, such as Newroz (spring equinox) and International Women's Day. Additionally, we participate in public demonstrations (e.g., trade union rallies) or fundraising efforts.
+We also organize events around specific days, such as [Nowruz](https://en.wikipedia.org/wiki/Nowruz) (spring equinox) and [International Women's Day](https://en.wikipedia.org/wiki/International_Women%27s_Day). Additionally, we participate in public demonstrations (e.g., trade union rallies) or fundraising efforts.
 
 To achieve our goals, we collaborate with other institutions and associations that share democratic, multicultural, and tolerant values. Many issues require cooperation and connection between different groups, individuals, and societal organizations.
 
@@ -36,13 +36,13 @@ We adhere to and promote the following principles:
 Our association has a flat organizational structure with short communication lines. The board is elected at a general meeting for a two-year term and consists of at least seven members. From within, the board appoints a chairperson, a secretary, a treasurer, and the necessary number of supporting members.
 
 In addition to the board, there are several committees:
-- The Women’s Committee organizes activities for female members.
-- The Youth Committee organizes activities for and by young members.
-- The Cem Committee oversees religious activities (depending on interest) such as Cem, Hızır, Muharrem, Ashura, Hz. Ali, Hıdırellez, Hacı Bektaş Veli, Khal Gaxan/Gağan, etc.
+- The **Women’s Committee** organizes activities for female members.
+- The **Youth Committee** organizes activities for and by young members.
+- The **Cem Committee** oversees religious activities (depending on interest) such as Cem, Hızır, Muharrem, Ashura, Hz. Ali, Hıdırellez, Hacı Bektaş Veli, Khal Gaxan/Gağan, etc.
 
 Unfortunately, we do not have a dedicated [Cemevi](https://en.wikipedia.org/wiki/Cemevi) for religious activities and use the regular facilities in our community center.
 
-We are affiliated with [Hak-Der](https://hakder.nl), the umbrella organization of [Alevi](https://en.wikipedia.org/wiki/Alevism) associations in the Netherlands. Hak-Der collaborates with the Humanist Alliance, an organization of humanist groups in the Netherlands.
+We are affiliated with [Hak-Der](https://hakder.nl), the umbrella organization of [Alevi](https://en.wikipedia.org/wiki/Alevism) associations in the Netherlands. [Hak-Der](https://hakder.nl) collaborates with the Humanist Alliance, an organization of humanist groups in the Netherlands.
 
 ## Questions?
 

@@ -40,10 +40,21 @@ export default function Home(): JSX.Element {
             </div>
             <div style={{display: 'flex', justifyContent: 'center', marginBottom: '3rem'}}>
                 <ol>
-                    <li>İletişim sayfasi</li>
-                    <li>---- <input type="checkbox" /> Türkçe</li>
-                    <li>---- <input type="checkbox" /> Hollandaca</li>
-                    <li>---- <input type="checkbox" /> İngilizce</li>
+                    Hakkımızda sayfasi
+                    <li><input type="checkbox" /> Türkçe</li>
+                    <li><input type="checkbox" /> Hollandaca</li>
+                    <li><input type="checkbox" /> İngilizce</li>
+
+                    Üyelik sayfasi
+                    <li><input type="checkbox" /> Türkçe</li>
+                    <li><input type="checkbox" /> Hollandaca</li>
+                    <li><input type="checkbox" /> İngilizce</li>
+                    <br/>
+
+                    İletişim sayfasi
+                    <li><input type="checkbox" /> Türkçe</li>
+                    <li><input type="checkbox" /> Hollandaca</li>
+                    <li><input type="checkbox" /> İngilizce</li>
                 </ol>
             </div>
 
@@ -62,42 +73,15 @@ export default function Home(): JSX.Element {
                     <li>---- <input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
                     <li>---- <input type="checkbox" /> Logoyu yeniden yarat.</li>
                     <li>---- <input type="checkbox" /> Asagidaki resimli kutulari sil ya da uygun icerik bul.</li>
-                    <li>---- <input type="checkbox" /> <a href="https://nl-nl.facebook.com/psader.enschede/">Facebook linki</a> en asagida olacak mi?</li>
-                    <li>---- <input type="checkbox" /> En alt kisimda rastgele cumleler/alintilar paylasabiliriz.</li>
-                    <li>---- <input type="checkbox" /> Sayfanin renkleri yesilden kirmiziya cevrilebilir.</li>
                     <li>---- <input type="checkbox" /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
-
-
-                    <li><input type="checkbox" /> Temalar sayfasi bos. Kitapcik eklenebilir.</li>
-
-                    <li><input type="checkbox" /> Hakkımızda sayfasi</li>
-                    <li>---- <input type="checkbox" checked /> Türkçe</li>
-                    <li>---- <input type="checkbox" /> Hollandaca</li>
-                    <li>---- <input type="checkbox" /> İngilizce</li>
-
-
-                    <li><input type="checkbox" /> Üyelik sayfasi</li>
-                    <li>---- <input type="checkbox" checked /> Türkçe</li>
-                    <li>---- <input type="checkbox" /> Hollandaca</li>
-                    <li>---- <input type="checkbox" /> İngilizce</li>
-
-                    <li><input type="checkbox" checked /> İletişim sayfasi</li>
-                    <li>---- <input type="checkbox" checked /> Adres ekle.</li>
-                    <li>---- <input type="checkbox" checked /> Harita ekle.</li>
-                    <li>---- <input type="checkbox" checked /> Acilis saatlerini ekle. (06.02.2025)</li>
-                    <li>---- <input type="checkbox" checked /> Prismare'den toplu tasima paragrafini al. (06.02.2025)</li>
-                    <li>---- <input type="checkbox" checked /> Türkçe</li>
-                    <li>---- <input type="checkbox" checked /> Hollandaca</li>
-                    <li>---- <input type="checkbox" checked /> İngilizce</li>
 
                     <li><input type="checkbox" /> Privacy/disclaimer sayfasini ekle.</li>
                     <li>---- <input type="checkbox" /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
 
-                    <li><input type="checkbox" /> Thema's sayfasi bos. Ne yapilacak?</li>
                     <li><input type="checkbox" /> Google isletmelerde adresi guncellemek lazim: Google Haritalar</li>
                 </ol>
             </div>
@@ -107,7 +91,6 @@ export default function Home(): JSX.Element {
             <div style={{display: 'flex', justifyContent: 'center', marginBottom: '2rem'}}>
                 <InstagramEmbed url="https://www.instagram.com/enschede_akm" width={"60%"}/>
             </div>
-            dfd
         </Layout>
     );
 }
