@@ -36,6 +36,19 @@ export default function Home(): JSX.Element {
 
             <main>
             <div style={{display: 'flex', justifyContent: 'center', fontSize: '2rem', fontWeight: 'bold', marginTop: '1rem'}}>
+                TEST EDILECEK
+            </div>
+            <div style={{display: 'flex', justifyContent: 'center', marginBottom: '3rem'}}>
+                <ol>
+                    <li>İletişim sayfasi</li>
+                    <li>---- <input type="checkbox" /> Türkçe</li>
+                    <li>---- <input type="checkbox" /> Hollandaca</li>
+                    <li>---- <input type="checkbox" /> İngilizce</li>
+                </ol>
+            </div>
+
+
+            <div style={{display: 'flex', justifyContent: 'center', fontSize: '2rem', fontWeight: 'bold', marginTop: '1rem'}}>
                 YAPILACAKLAR
             </div>
             <div style={{display: 'flex', justifyContent: 'center', marginBottom: '-3rem'}}>
@@ -70,14 +83,14 @@ export default function Home(): JSX.Element {
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>
 
-                    <li><input type="checkbox" /> İletişim sayfasi</li>
+                    <li><input type="checkbox" checked /> İletişim sayfasi</li>
                     <li>---- <input type="checkbox" checked /> Adres ekle.</li>
                     <li>---- <input type="checkbox" checked /> Harita ekle.</li>
-                    <li>---- <input type="checkbox" checked /> Acilis saatlerini ekle.</li>
-                    <li>---- <input type="checkbox" checked /> Prismare'den toplu tasima paragrafini al.</li>
+                    <li>---- <input type="checkbox" checked /> Acilis saatlerini ekle. (06.02.2025)</li>
+                    <li>---- <input type="checkbox" checked /> Prismare'den toplu tasima paragrafini al. (06.02.2025)</li>
                     <li>---- <input type="checkbox" checked /> Türkçe</li>
-                    <li>---- <input type="checkbox" /> Hollandaca</li>
-                    <li>---- <input type="checkbox" /> İngilizce</li>
+                    <li>---- <input type="checkbox" checked /> Hollandaca</li>
+                    <li>---- <input type="checkbox" checked /> İngilizce</li>
 
                     <li><input type="checkbox" /> Privacy/disclaimer sayfasini ekle.</li>
                     <li>---- <input type="checkbox" /> Türkçe</li>
