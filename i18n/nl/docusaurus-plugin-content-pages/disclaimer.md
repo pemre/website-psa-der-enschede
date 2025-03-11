@@ -2,7 +2,7 @@
 title: Disclaimer
 ---
 
-# Informatie over deze website, privacy en disclaimer
+# Disclaimer
 
 ## 1. Eigendom & verantwoordelijkheid voor inhoud
 

@@ -1,8 +1,8 @@
 ---
-title: Yasal Uyarı
+title: Yasal uyarı
 ---
 
-# Bu web sitesi, gizlilik ve sorumluluk politikası hakkında bilgiler
+# Yasal uyarı
 
 ## 1. Mülkiyet & içerik sorumluluğu
 

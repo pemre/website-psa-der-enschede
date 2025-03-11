@@ -122,7 +122,7 @@ const config: Config = {
           title: 'Diğer',
           items: [
             {
-              label: 'Yasal Uyarı',
+              label: 'Yasal uyarı',
               to: '/disclaimer',
             },
           ],

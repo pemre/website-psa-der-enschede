@@ -2,7 +2,7 @@
 title: Disclaimer
 ---
 
-# Information about this website, privacy, and disclaimer policy
+# Disclaimer
 
 ## 1. Ownership & content responsibility
 
