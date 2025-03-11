@@ -56,6 +56,11 @@ export default function Home(): JSX.Element {
                     <li><input type="checkbox" /> Türkçe</li>
                     <li><input type="checkbox" /> Hollandaca</li>
                     <li><input type="checkbox" /> İngilizce</li>
+
+                    Privacy/disclaimer sayfası
+                    <li><input type="checkbox" /> Türkçe</li>
+                    <li><input type="checkbox" /> Hollandaca</li>
+                    <li><input type="checkbox" /> İngilizce</li>
                 </ol>
             </div>
 
@@ -73,11 +78,6 @@ export default function Home(): JSX.Element {
                     <li>---- <input type="checkbox" /> Instagram hesabini halka acik yap ve asagida guncelle.</li>
                     <li>---- <input type="checkbox" /> Logoyu yeniden yarat.</li>
                     <li>---- <input type="checkbox" /> Asagidaki resimli kutulari sil ya da uygun icerik bul.</li>
-                    <li>---- <input type="checkbox" /> Türkçe</li>
-                    <li>---- <input type="checkbox" /> Hollandaca</li>
-                    <li>---- <input type="checkbox" /> İngilizce</li>
-
-                    <li><input type="checkbox" /> Privacy/disclaimer sayfası ekle.</li>
                     <li>---- <input type="checkbox" /> Türkçe</li>
                     <li>---- <input type="checkbox" /> Hollandaca</li>
                     <li>---- <input type="checkbox" /> İngilizce</li>

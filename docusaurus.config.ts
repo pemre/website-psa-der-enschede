@@ -122,8 +122,8 @@ const config: Config = {
           title: 'Diğer',
           items: [
             {
-              label: 'Privacy/disclaimer (link eksik)',
-              to: '#',
+              label: 'Yasal Uyarı',
+              to: '/disclaimer',
             },
           ],
         },
