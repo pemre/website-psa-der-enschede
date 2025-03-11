@@ -56,6 +56,7 @@ export default function Home(): JSX.Element {
                     <li><input type="checkbox" /> Türkçe</li>
                     <li><input type="checkbox" /> Hollandaca</li>
                     <li><input type="checkbox" /> İngilizce</li>
+                    <br/>
 
                     Privacy/disclaimer sayfası
                     <li><input type="checkbox" /> Türkçe</li>
