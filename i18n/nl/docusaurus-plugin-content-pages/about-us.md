@@ -4,11 +4,13 @@ title: Over ons
 
 # Pir Sultan Abdal Cultuur- en Solidariteitsvereniging
 
-Pir Sultan Abdal Cultuur- en Solidariteitsvereniging (Turks: **P**ir **S**ultan **A**bdal Kültür ve Dayanışma **Der**neği, PSA-Der) is een sociaal-culturele (migranten)vereniging die in 1995 in Enschede is opgericht. Onze vereniging is vernoemd naar de 15e-eeuwse Turkse dichter, muzikant, humanist en mysticus [Pir Sultan Abdal](https://nl.wikipedia.org/wiki/Pir_Sultan_Abdal). Op dit moment heeft onze vereniging ongeveer 200 leden.
+Alevitisch Cultureel Centrum Pir Sultan Abdal is een Alevitisch gemeenschapsorganisatie opgericht in 1995 te Enschede. Onze vereniging is vernoemd naar de 15e eeuwse (Turkse) poëet, musicus, humanist en mysticus Pir Sultan Abdal. Onze vereniging telt momenteel rond de 250 leden.
 
 ## Wat voor soort vereniging zijn wij?
 
-Onze vereniging is moeilijk onder één noemer te scharen. Wij zien ons als een progressieve vereniging... als een migrantenvereniging... als een vereniging met een [alevitische](https://nl.wikipedia.org/wiki/Alevitisme) achtergrond... als een vereniging met humanistische uitgangspunten... als een maatschappelijke vereniging die graag betrokkenheid toont met de samenleving... als een belangenvereniging voor onze leden... als een vereniging die de cohesie onder gelijkgestemde mensen en groepen bevordert... Kortom, als een brede vereniging met ruime uitgangspunten!
+Hoewel we ons op diverse vlakken in de samenleving manifesteren, zijn we bovenal één ding: een Alevitisch Cultureel Centrum. Vanuit ons Alevitische geloofswaarden en humanistische levensbeschouwing vormen wij een thuisbasis voor iedereen die zich verbonden voelt met onze rijke cultuur en tradities. Wij zijn een bruisende gemeenschapsorganisatie die de Alevitische cultuur actief uitdraagt en behoudt. Dit doen we door een gevarieerd programma van culturele avonden, muziek- en dansworkshops, inhoudelijke lezingen en gezamenlijke vieringen. 
+
+Hiermee versterken we de onderlinge cohesie en bieden we een herkenbaar thuis voor gelijkgestemden. Tegelijkertijd staan wij met beide benen in de maatschappij. Als maatschappelijke vereniging tonen we graag betrokkenheid en behartigen we de belangen van onze leden. We zijn een plek waar het Alevitische geloof en progressiviteit samenkomen, en waar we actief de dialoog aangaan om verbinding en begrip te creëren met de bredere samenleving. Kortom, wij zijn een brede vereniging met een duidelijke basis: het Alevitisch cultuurgoed als bron voor ontmoeting, verdieping en maatschappelijke betrokkenheid.
 
 ## Wat doen wij?
 
